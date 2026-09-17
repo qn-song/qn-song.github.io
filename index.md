@@ -14,8 +14,8 @@ functional differential equations, and mathematical biology.
 ## Research Interests
 
 - Reaction-diffusion equations
-- Delay and functional differential equations
-- Bifurcation theory
+- Free boundary problems
+- Functional differential equations
 - Pattern formation
 - Mathematical biology
 
