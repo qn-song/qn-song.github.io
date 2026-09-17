@@ -3,17 +3,14 @@ layout: default
 title: Home
 ---
 
-# Qinuo Song
+# About Me
 
-I am a Ph.D. student in Applied Mathematics.
-
-My research focuses on nonlinear differential equations and applied dynamical systems,
-with particular interests in reaction-diffusion equations, free boundary problems, 
-functional differential equations, and mathematical biology.
+I am a 1st year Ph.D. student in Applied Mathematics at Harbin Institute of Technology.
+My research focuses on free boundary problems, functional differential equations, 
+pattern formation, and mathematical biology.
 
 ## Research Interests
 
-- Reaction-diffusion equations
 - Free boundary problems
 - Functional differential equations
 - Pattern formation
