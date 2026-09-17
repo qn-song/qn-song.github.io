@@ -21,7 +21,6 @@ functional differential equations, and mathematical biology.
 
 ## Links
 
-- Google Scholar
 - ORCID
 - CV
 
