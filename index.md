@@ -21,8 +21,8 @@ functional differential equations, and mathematical biology.
 
 ## Links
 
-- ORCID
-- CV
+- [ORCID](https://orcid.org/0009-0004-1603-4376)
+- [CV]
 
 ## Contact
 
