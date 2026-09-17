@@ -7,8 +7,8 @@ title: Home
 
 I am a Ph.D. student in Applied Mathematics.
 
-My research focuses on nonlinear differential equations and dynamical systems,
-with particular interests in reaction-diffusion equations, bifurcation theory,
+My research focuses on nonlinear differential equations and applied dynamical systems,
+with particular interests in reaction-diffusion equations, free boundary problems, 
 functional differential equations, and mathematical biology.
 
 ## Research Interests
